@@ -33,12 +33,12 @@ menu.returnToMenu=Save and Quit to Title
 menu.disconnect=Disconnect
 menu.returnToGame=Back to Game
 menu.switchingLevel=Switching worlds
-menu.generatingLevel=Generating world
-menu.loadingLevel=Loading world
-menu.generatingTerrain=Building terrain
-menu.convertingLevel=Converting world
+menu.generatingLevel=§2Generating world
+menu.loadingLevel=§2Loading world
+menu.generatingTerrain=§2Building terrain
+menu.convertingLevel=§2Converting world
 menu.simulating=Simulating the world for a bit
-menu.respawning=Respawning
+menu.respawning=§2Respawning
 menu.shareToLan=LAN
 
 selectWorld.title=Select World
